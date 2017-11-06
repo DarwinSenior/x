@@ -1,0 +1,6 @@
+{
+  "pages/*.vue": { "type": "page" },
+  "components/*.vue": { "type": "component" },
+  "components/index.ts": { "type": "C" },
+  "nuxt.config.js": { "type": "nuxt" }
+}
