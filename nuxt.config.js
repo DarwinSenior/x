@@ -13,6 +13,12 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  manifest : {
+    name: 'Xplorecat',
+    lang: 'en',
+    viewport: 'width=device=width,initial-scale=1,minimal-ui',
+    'og:type': 'webiste',
+  },
   /*
   ** Customize the progress bar color
   */
